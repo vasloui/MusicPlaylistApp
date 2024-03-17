@@ -1,0 +1,91 @@
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\Music_Player.exe.config
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\Music_Player.exe
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\Music_Player.pdb
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.AssemblyReference.cache
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.ResolveComReference.cache
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.Form1.resources
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.GenerateResource.cache
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.CoreCompileInputs.cache
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.exe
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.pdb
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\EntityFramework.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\System.Data.SQLite.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\EntityFramework.xml
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\System.Data.SQLite.xml
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Interop.Win32_TPMLib.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Interop.WMLSS.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Interop.WMPNSSCI.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.CopyComplete
+C:\Users\vaslo\Uni\year2\semester3\CSharp\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.Form2.resources
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\Music_Player.exe.config
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\Music_Player.exe
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\Music_Player.pdb
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\EntityFramework.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\System.Data.SQLite.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\EntityFramework.xml
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\System.Data.SQLite.xml
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.AssemblyReference.cache
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Interop.Win32_TPMLib.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Interop.WMLSS.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Interop.WMPNSSCI.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.ResolveComReference.cache
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.Form1.resources
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.GenerateResource.cache
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.CoreCompileInputs.cache
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.CopyComplete
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.exe
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.pdb
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\Music_Player.exe.config
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\Music_Player.exe
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\Music_Player.pdb
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\EntityFramework.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\System.Data.SQLite.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\EntityFramework.xml
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\System.Data.SQLite.xml
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.AssemblyReference.cache
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Interop.Win32_TPMLib.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Interop.WMLSS.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Interop.WMPNSSCI.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.ResolveComReference.cache
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.Form1.resources
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.GenerateResource.cache
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.CoreCompileInputs.cache
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.CopyComplete
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.exe
+C:\Users\vaslo\Uni\year2\semester3\CSharp\OOP_App_Dev\finla_project\AEE\Music_Playlist_App\Music_Player\Music_Player\obj\Debug\Music_Player.pdb
